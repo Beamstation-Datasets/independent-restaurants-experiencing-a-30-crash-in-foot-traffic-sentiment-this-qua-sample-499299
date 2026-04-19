@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Arkansas
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `499299` |
 | Location | Arkansas |
 | Category | Food and Drink |
-| Full dataset size | 243 records |
-| Free sample size | 24 records (9.88%) |
-| Last export | 2026-04-09T19:21:03.698699+00:00 |
+| Full dataset size | 258 records |
+| Free sample size | 25 records (9.69%) |
+| Last export | 2026-04-16T22:49:26.459480+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-499299/releases/download/sample-latest/beamstation_499299_food_and_drink-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
